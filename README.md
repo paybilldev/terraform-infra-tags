@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://paybill.dev" target="_blank">
     <picture>
-      <img src="./static/tags.png" alt="Logo" />
+      <img src="./static/tags.png" alt="Banner" />
     </picture>
   </a>
 </p>
